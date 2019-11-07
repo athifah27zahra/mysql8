@@ -37,7 +37,7 @@ require("connect.php");
 
 <script type="text/javascript">
 
-var server = "http://13.76.226.54/mysql8/kuliner_bkt/";
+var server = "http://halal-culinary/mysql8/kuliner_bkt/";
 var map;
 var markersDua = [];
 var koordinat = 'null'
